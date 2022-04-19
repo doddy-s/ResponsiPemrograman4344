@@ -4,11 +4,11 @@ public class Karyawan
     public string nama{get; set;}
     public int gajiBulanan{get; set;}
 
-    public Karyawan(string nikConst, string namaConst, int gajiBulananConst)
+    public Karyawan(string nikConstructor, string namaConstructor, int gajiBulananConstructor)
     {
-        nik = nikConst;
-        nama = namaConst;
-        gajiBulanan = gajiBulananConst;
+        nik = nikConstructor;
+        nama = namaConstructor;
+        gajiBulanan = gajiBulananConstructor;
     }
 
     public void printGajiBulanan()
