@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jV9gLjSwJTv03C3M1ej2JWEWJoaCOZLyDAqpwzVspBovrgEGur+6EZazTVycciE/m99Mhw3/ciN/W/QzKH6C6w==",
+  "success": true,
+  "projectFilePath": "/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/ResponsiPemrograman4344/ResponsiPemrograman4344.csproj",
+  "expectedPackageFiles": [
+    "/home/doddy-s/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

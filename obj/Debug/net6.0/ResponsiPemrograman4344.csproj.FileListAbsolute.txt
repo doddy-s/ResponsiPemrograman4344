@@ -1,0 +1,15 @@
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/ResponsiPemrograman4344/bin/Debug/net6.0/ResponsiPemrograman4344
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/ResponsiPemrograman4344/bin/Debug/net6.0/ResponsiPemrograman4344.deps.json
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/ResponsiPemrograman4344/bin/Debug/net6.0/ResponsiPemrograman4344.runtimeconfig.json
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/ResponsiPemrograman4344/bin/Debug/net6.0/ResponsiPemrograman4344.dll
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/ResponsiPemrograman4344/bin/Debug/net6.0/ref/ResponsiPemrograman4344.dll
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/ResponsiPemrograman4344/bin/Debug/net6.0/ResponsiPemrograman4344.pdb
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/ResponsiPemrograman4344/obj/Debug/net6.0/ResponsiPemrograman4344.csproj.AssemblyReference.cache
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/ResponsiPemrograman4344/obj/Debug/net6.0/ResponsiPemrograman4344.GeneratedMSBuildEditorConfig.editorconfig
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/ResponsiPemrograman4344/obj/Debug/net6.0/ResponsiPemrograman4344.AssemblyInfoInputs.cache
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/ResponsiPemrograman4344/obj/Debug/net6.0/ResponsiPemrograman4344.AssemblyInfo.cs
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/ResponsiPemrograman4344/obj/Debug/net6.0/ResponsiPemrograman4344.csproj.CoreCompileInputs.cache
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/ResponsiPemrograman4344/obj/Debug/net6.0/ResponsiPemrograman4344.dll
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/ResponsiPemrograman4344/obj/Debug/net6.0/ref/ResponsiPemrograman4344.dll
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/ResponsiPemrograman4344/obj/Debug/net6.0/ResponsiPemrograman4344.pdb
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/ResponsiPemrograman4344/obj/Debug/net6.0/ResponsiPemrograman4344.genruntimeconfig.cache
