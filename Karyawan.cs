@@ -9,6 +9,10 @@ public class Karyawan
         nik = nikConstructor;
         nama = namaConstructor;
         gajiBulanan = gajiBulananConstructor;
+        if(gajiBulananConstructor < 0)
+        {
+            gajiBulanan = 0;
+        }
     }
 
     public void printGajiBulanan()
